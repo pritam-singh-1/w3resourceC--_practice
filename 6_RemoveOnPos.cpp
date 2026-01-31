@@ -7,7 +7,7 @@ int main(){
     cout<<"Enter the position: "<<endl;
     int x;
     cin>>x;
-    cout<<s.erase(x-1,1)<<endl;
+    cout<<s.erase(x-1,2)<<endl;
     return 0;
 
 }
